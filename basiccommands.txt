@@ -1,0 +1,27 @@
+                                                                       COMMANDS LINE ESSENTIALS:
+                                                                                 GIT BASH FOR WINDOWS
+
+Thi is a step by step guide for windows unfamiliar with bash on the terminal.
+                                  
+                                                                        BASIC COMMANDS 
+1.   pwd          - [ Used to present the currently working directory ]
+2.   ls             -  [ Used to list files and directories ]
+3.   ls -l          - [ Used to list the content in a long/full format ]
+4.  cd            - [ Used to change the  directory, to chnage current working directory ]
+5.  cd ..        -[ Used to change into the directory after the current one or the parent directory ]
+6.  cd ../../..  -[ Used to get to the root directory ]
+7.  cd ~       -[ Used to get to the root directory ]
+8. which     - [ Used to find the path/where a file is loacted ]
+9. echo      -[  Used to output the string it's being passed as an argument ]
+10. cat      -[ Used to read files contents ,create single or multiples files ,concatenate file and redirect output in terminal or files ]
+11. less    - [ Used to read a page or view the contents of a file at a time and navigate through file ]
+12 touch    -[ Used to create a new file ]
+13. mv      -[ Used to rename or move file in a folder ]
+14. rm      -[ Used to remove or delete a file ]
+15. mkdir  -[Used to create a new folder and also create multiples folders at a time ]
+16. rmdir   -  [Used to remove/ delete a folder ]
+17. clear   -[Used to clear an open file ]
+18. exit     -[Used to close the terminal ]
+19. >>       -[ To create a file and it's content ]
+20 . >       -[To override the content of a file and change it ]
+21. ls -al   -[ To copy all contents of a directory into a new file ]
